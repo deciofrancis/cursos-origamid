@@ -4,12 +4,12 @@ Repositório destinado aos projetos, anotações, exercidos e certificados dos c
 
 Frond End, UX, UI e Design
 
-:white_check_mark: Web Design Completo
-:white_check_mark: Tipografia Avançada
-:white_check_mark: WooCommerce Como CMS
-:white_check_mark: UX Design Heurísticas
-:white_check_mark: UI Design Avançado
-:hourglass: JavaScript Completo ES6
-:white_large_square: React Completo
-:white_large_square: Redux com React
-:white_large_square: Vue.js 2 Completo
+<p>:white_check_mark: Web Design Completo</p>
+<p>:white_check_mark: Tipografia Avançada</p>
+<p>:white_check_mark: WooCommerce Como CMS</p>
+<p>:white_check_mark: UX Design Heurísticas</p>
+<p>:white_check_mark: UI Design Avançado</p>
+<p>:hourglass: JavaScript Completo ES6</p>
+<p>:white_large_square: React Completo</p>
+<p>:white_large_square: Redux com React</p>
+<p>:white_large_square: Vue.js 2 Completo</p>
