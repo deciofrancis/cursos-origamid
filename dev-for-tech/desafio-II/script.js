@@ -6,12 +6,10 @@ numParImpar(7);
 
 function conTriangulo (numTri) {
   for (let i = 1; i <= numTri; i++) {
-    for (let j = numTri - 1; j >= 1; j--) {
-        console.log(' ');
+    for (let j = 1; j <= i; j++) {
+        console.log('*');
     }
-    for (j = 1; j <= i; j++) {
-      console.log('*');
-    }  
+    console.log('\n')
   }
 }
 
