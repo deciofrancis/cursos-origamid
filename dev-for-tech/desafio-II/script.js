@@ -5,11 +5,12 @@ function numParImpar (num) {
 numParImpar(7);
 
 function conTriangulo (numTri) {
+  let linha = '';
   for (let i = 1; i <= numTri; i++) {
-    for (let j = 1; j <= i; j++) {
-        console.log('*');
+    for (let j = 0; j < i; j++) {
+        linha += '*';
     }
-    console.log('\n')
+    console.log(linha);
   }
 }
 
