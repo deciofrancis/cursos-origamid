@@ -4,6 +4,7 @@ function numParImpar (num) {
 
 numParImpar(7);
 
+
 function conTriangulo (numTri) {
   for (let i = 1; i <= numTri; i++) {
     let linha = '';
@@ -15,3 +16,15 @@ function conTriangulo (numTri) {
 }
 
 conTriangulo(4);
+
+function inTriangulo (numTri) {
+  for (let i = 1; i <= numTri; i++) {
+    let linha = '';
+    for (let j = numTri; j >= i; j--) {
+      linha += '* ';
+    }
+    console.log(linha);
+  }
+}
+
+inTriangulo(4);
