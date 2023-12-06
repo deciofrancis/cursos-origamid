@@ -12,6 +12,8 @@ Frond End, UX, UI e Design
 <p>:white_check_mark: JavaScript Completo ES6 <br>
      ↪ [Projeto desenvolvido no curso](https://github.com/deciofrancis/animais-fantasticos)
 </p>
-<p>:hourglass: React Completo</p>
-<p>:white_large_square: Redux com React</p>
+<p>:white_check_mark: React Completo <br>
+     ↪ [Projeto desenvolvido no curso](https://github.com/deciofrancis/dogs)
+</p>
+<p>:hourglass: Redux com React</p>
 <p>:white_large_square: Vue.js 2 Completo</p>
