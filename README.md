@@ -18,5 +18,6 @@ Frond End, UX, UI e Design
 </p>:white_check_mark: WordPress REST API Dogs <br>
      ↪ [Projeto desenvolvido no curso](https://github.com/deciofrancis/apidogs)
 </p>
-<p>:hourglass: Redux com React</p>
+<p>:hourglass: TypeScript para Iniciantes</p>
+<p>:white_large_square: Redux com React</p>
 <p>:white_large_square: Vue.js 2 Completo</p>
